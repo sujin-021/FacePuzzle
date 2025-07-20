@@ -17,4 +17,4 @@ This is a sliding puzzle made with photo-based tiles. As the puzzle pieces move,
 
 
 ### Preview 
-[Click and Enjoy!](./preview.mov)
+[Click and Enjoy!](./preview.gif)
