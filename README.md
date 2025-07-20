@@ -1,7 +1,7 @@
 # 🧩 FacePuzzle 🧩
 
 ### Overview
-This is a sliding puzzle used photo tiles. As the puzzle pieces move, black-and-white portrait reveal vibrant, colorful fragments — giving the impression of color to a faded photo.
+This is a sliding puzzle made with photo-based tiles. As the puzzle pieces move, a black-and-white portrait is gradually revealed through vibrant, colorful fragments — giving the impression of restoring color to a faded photo.
 
 
 ### Technologies Used
